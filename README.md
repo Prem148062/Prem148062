@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Prem
 - 👀 I’m interested in Web Stack
-- 🌱 I’m currently learning MERN / ASP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning express / .net / microservices
